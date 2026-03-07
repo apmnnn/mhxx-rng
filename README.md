@@ -6,7 +6,7 @@
 # 目次
 
 1. [はじめに](#はじめに)  
-1. [お守りの決定方法](docs/charm_generation.md) 
+1. [お守りの決定方法](./docs/charm_generation.md) 
 1. [乱数生成式、乱数の仕様](docs/rng.md) 
 1. [関数の説明](docs/functions.md)  
 1. [スナイプ入門1](#スナイプ入門1)  
