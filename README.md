@@ -29,8 +29,6 @@ Googleアカウントを持っていなければ取得し、上のOpen in Colab�
 
 ## [お守りの決定方法](docs/charm_generation.md)
 
- [お守りの決定方法](docs/charm_generation.md)
-
 
 ## [乱数生成式、乱数の仕様](docs/rng.md)
 
