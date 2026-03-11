@@ -93,7 +93,7 @@ for num1 in range(10000):
 ```python
 p = parameter('窮地',4,'回量',2,0,'マカ')
 
-around(1740,60)
+around(1740,60,'マカ')
 
 for num1 in range(0):
   search(*p)
