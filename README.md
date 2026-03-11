@@ -174,7 +174,7 @@ watch(4723 - 1717)
 ```python
 p = parameter('連撃',4,'痛撃',5,3,'マカ')
 
-around(4723,60)
+around(4723,60,'マカ')
 
 for num1 in range(0):
   search(*p)
