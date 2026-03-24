@@ -18,6 +18,7 @@
 1. [今後の展望](docs/future.md)
 1. [注意など](#注意など)
 1. [有名なお守り](docs/charms.md)
+1. [更新履歴](docs/history.md) 
 
 ## はじめに
 
@@ -275,3 +276,6 @@ Colabでは出力が5000行を超える場合、古い方から切り捨てて�
 
 
 ## [有名なお守り](docs/charms.md)
+
+
+## [更新履歴](docs/history.md)
