@@ -14,7 +14,8 @@
 1. [スナイプ実践](#スナイプ実践)  
 1. [考察など](docs/analysis.md)  
 1. [天運の錬金、マカフシギ錬金について](docs/melding.md)  
-1. [ランクについて](docs/rank.md)  
+1. [ランクについて](docs/rank.md)
+1. [クエスト報酬、調合について](docs/reward_combo.md)  
 1. [今後の展望](docs/future.md)
 1. [注意など](#注意など)
 1. [有名なお守り](docs/charms.md)
@@ -245,6 +246,9 @@ continueを押すタイミングを間違えている事がタイマーから分
 
 
 ## [ランクについて](docs/rank.md)
+
+
+## [クエスト報酬、調合について](docs/reward_combo.md)
 
 
 ## [今後の展望](docs/future.md)
