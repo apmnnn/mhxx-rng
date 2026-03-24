@@ -81,7 +81,7 @@ Googleアカウントを持っていなければ取得し、上のOpen in Colab�
 ```python
 p = parameter('窮地',4,'回量',2,0,'マカ')
 
-for num1 in range(10000):
+for i in range(10000):
   search(*p)
 ```
 
@@ -96,7 +96,7 @@ p = parameter('窮地',4,'回量',2,0,'マカ')
 
 around(1740,60,'マカ')
 
-for num1 in range(0):
+for i in range(0):
   search(*p)
 ```
 
