@@ -152,7 +152,7 @@ show_fast_multi(10**7,p1,p2,p3,p4)
 reward_table = {報酬テーブル}
 reward = '獲得した報酬'
 
-search_reward(初期乱数位置, 検索数, 運気スキルによる閾値, reward, reward_table)
+search_reward(検索開始位置, 検索数, 運気スキルによる閾値, reward, reward_table)
 ```
 
 採取ツアーで得たクエスト報酬から、クエスト報酬を生成する直前の乱数位置を割り出し表示します。
@@ -187,7 +187,7 @@ search_reward(0, 10**7, 28, reward, reward_table)
 
 ```python
 combo = '調合数の記録'
-search_combo(初期乱数位置, 検索数, combo)
+search_combo(検索開始位置, 検索数, combo)
 ```
 
 調合による弾所持数の変化から、調合を開始した際の乱数位置を割り出し、そのフレームに調合による乱数進行（調合回数×2）を足したものを表示します。
