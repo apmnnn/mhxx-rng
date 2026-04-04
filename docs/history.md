@@ -1,3 +1,7 @@
+## 2026-04-04
+- `show_fast()`を一部高速化
+- `show_fast_multi()`を一部修正
+
 ## 2026-04-01
 - `search()`, `search_greater()`, `search_fill_slot()`を一部変更
 - `search_greater_skill1()`, `search_greater_skill2()`を`search_greater()`に統合
